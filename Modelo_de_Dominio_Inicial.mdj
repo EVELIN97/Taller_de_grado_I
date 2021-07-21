@@ -441,7 +441,7 @@
 											"top": 527,
 											"width": 130,
 											"height": 13,
-											"text": "TrabajoExtraLaboral",
+											"text": "Hora_Extra",
 											"wordWrap": true
 										},
 										{
@@ -8378,7 +8378,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "TrabajoExtraLaboral",
+					"name": "Hora_Extra",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
